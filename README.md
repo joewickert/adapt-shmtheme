@@ -1,2 +1,2 @@
 # adapt-shmtheme
-An adpat theme
+An adapt theme
